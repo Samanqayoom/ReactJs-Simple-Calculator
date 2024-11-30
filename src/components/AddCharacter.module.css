@@ -1,0 +1,19 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:3px;
+    width:100%;
+
+    
+}
+.btn{
+    
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color:rgb(84, 175, 84);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+   
+
+}
